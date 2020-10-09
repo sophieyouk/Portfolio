@@ -1,14 +1,14 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Skills
+## Skills
 **Programming Experience:** R, SAS, Python, SQL, JMP, Java  
 **Algorithm Experience:** PCA, LDA, QDA, Multivariate Logistic, Time Series Analysis, Bootstrap, Clustering, Random Forest
 
 ---
 
-### Project Experience
+## Project Experience
   *(Still in the process of updating!)*
 
 **Data Analysis of Air Pollution in Seoul** (March – May 2020)  
