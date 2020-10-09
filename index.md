@@ -2,19 +2,14 @@
 
 ---
 
-### Skill
-
----
-
-#### Programming Languages:
-  R, SAS, Python, SQL, JMP, Java
-#### Algorithms:
-  PCA, LDA, QDA, Multivariate Logistic, Time Series Analysis, Bootstrap, Clustering, Random Forest
+### Skills
+**Programming Experience:** R, SAS, Python, SQL, JMP, Java
+**Algorithm Experience:** PCA, LDA, QDA, Multivariate Logistic, Time Series Analysis, Bootstrap, Clustering, Random Forest
 
 ---
 
 ### Project Experience
-  Still in the process of updating!
+  *Still in the process of updating!*
   
 ---
 
